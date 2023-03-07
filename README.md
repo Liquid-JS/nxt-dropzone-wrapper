@@ -1,3 +1,5 @@
+# Moved to https://github.com/Liquid-JS/nxt-components/tree/master/packages/dropzone-wrapper
+
 # Angular Dropzone Wrapper
 
 <a href="https://badge.fury.io/js/nxt-dropzone-wrapper"><img src="https://badge.fury.io/js/nxt-dropzone-wrapper.svg" align="right" alt="npm version" height="18"></a>
